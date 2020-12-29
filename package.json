@@ -2,6 +2,8 @@
   "name": "znizhki_json",
   "description": "",
   "version": "1.0.0",
+  "_location": "/znizhki_json",
+  "_where": "C:\\Code\\znizhki",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
