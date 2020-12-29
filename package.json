@@ -1,58 +1,19 @@
 {
-  "_from": "git+https://github.com/black2002/znizhki_json.git",
-  "_id": "znizhki_json",
-  "_inBundle": false,
-  "_integrity": "",
-  "_location": "/znizhki_json",
-  "_phantomChildren": {},
-  "_requested": {
-    "type": "git",
-    "raw": "git+https://github.com/black2002/znizhki_json.git",
-    "rawSpec": "git+https://github.com/black2002/znizhki_json.git",
-    "saveSpec": "git+https://github.com/black2002/znizhki_json.git",
-    "fetchSpec": "https://github.com/black2002/znizhki_json.git",
-    "gitCommittish": null
-  },
-  "_requiredBy": [
-    "#USER",
-    "/"
-  ],
-  "_resolved": "git+https://github.com/black2002/vuetify_base.git#c60f4246972462e1af8033366e7586ff58d68624",
-  "_shasum": "6aa2616b0fecb0614cf85052b0ffbb5cad80bf92",
-  "_spec": "git+https://github.com/black2002/znizhki_json.git",
-  "_where": "C:\\Code\\znizhki",
-  "author": {
-    "name": "black2002",
-    "email": "muzzycomesback@gmail.om"
-  },
-  "bugs": {
-    "url": ""
-  },
-  "bundleDependencies": false,
-  "deprecated": false,
-  "description": "Vue Material Component Framework",
-  "devDependencies": {
-
-  },
-  "files": [
-
-  ],
-  "gitHead": "012d321c3ff84c972858c0202705269cf280905b",
-
-
-  "publishConfig": {
-    "access": "public"
+  "name": "znizhki_json",
+  "description": "",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/black2002/znizhki_json.git",
-    "directory": "packages/znizhki_json"
+    "url": "https://github.com/black2002/znizhki_json.git"
   },
-  "scripts": {
-
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/monatheoctocat/my_package/issues"
   },
-  "sideEffects": [
-
-  ],
-  "version": "1.0.0",
+  "homepage": "https://github.com/monatheoctocat/my_package"
 }
