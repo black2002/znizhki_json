@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "_location": "/znizhki_json",
   "_where": "C:\\Code\\znizhki",
+  "main": "src/main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
