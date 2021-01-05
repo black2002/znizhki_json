@@ -1,0 +1,645 @@
+[
+  {
+    "divider": true
+  },
+  {
+    "name": "Вся Беларусь",
+    "url": "belarus"
+  },
+  {
+    "divider": true
+  },
+  {
+    "subheader": true,
+    "text": "Областные центры"
+  },
+  {
+    "name": "Минск",
+    "url": "minsk-by-microrayon"
+  },
+  {
+    "name": "Брест",
+    "url": "brest"
+  },
+  {
+    "name": "Витебск",
+    "url": "vitebsk"
+  },
+  {
+    "name": "Гомель",
+    "url": "gomel"
+  },
+  {
+    "name": "Гродно",
+    "url": "grodno"
+  },
+  {
+    "name": "Могилев",
+    "url": "mogilev"
+  },
+  {
+    "divider": true
+  },
+  {
+    "subheader": true,
+    "text": "Брестская обл."
+  },
+  {
+    "name": "Барановичи",
+    "url": "baranovichi"
+  },
+  {
+    "name": "Береза",
+    "url": "bereza"
+  },
+  {
+    "name": "Белозерск",
+    "url": "belozersk"
+  },
+  {
+    "name": "Ганцевичи",
+    "url": "gancevichi"
+  },
+  {
+    "name": "Дрогичин",
+    "url": "drogichin"
+  },
+  {
+    "name": "Жабинка",
+    "url": "zhabinka"
+  },
+  {
+    "name": "Иваново",
+    "url": "ivanovo"
+  },
+  {
+    "name": "Ивацевичи",
+    "url": "ivacevichi"
+  },
+  {
+    "name": "Каменец",
+    "url": "kamenec"
+  },
+  {
+    "name": "Кобрин",
+    "url": "kobrin"
+  },
+  {
+    "name": "Лунинец",
+    "url": "luninec"
+  },
+  {
+    "name": "Ляховичи",
+    "url": "lyahovichi"
+  },
+  {
+    "name": "Малорита",
+    "url": "malorita"
+  },
+  {
+    "name": "Пинск",
+    "url": "pinsk"
+  },
+  {
+    "name": "Столин",
+    "url": "stolin"
+  },
+  {
+    "divider": true
+  },
+  {
+    "subheader": true,
+    "text": "Витебская обл."
+  },
+  {
+    "name": "Бешенковичи",
+    "url": "beshenkovichi"
+  },
+  {
+    "name": "Барань",
+    "url": "baran"
+  },
+  {
+    "name": "Браслав",
+    "url": "braslav"
+  },
+  {
+    "name": "Верхнедвинск",
+    "url": "verhnedvins"
+  },
+  {
+    "name": "Глубокое",
+    "url": "glubokoe"
+  },
+  {
+    "name": "Городок",
+    "url": "gorodok"
+  },
+  {
+    "name": "Докшицы",
+    "url": "dokshicy"
+  },
+  {
+    "name": "Лепель",
+    "url": "lepel"
+  },
+  {
+    "name": "Лиозно",
+    "url": "liozno"
+  },
+  {
+    "name": "Миоры",
+    "url": "miory"
+  },
+  {
+    "name": "Новолукомль",
+    "url": "novolukoml"
+  },
+  {
+    "name": "Новополоцк",
+    "url": "novopolock"
+  },
+  {
+    "name": "Орша",
+    "url": "orsha"
+  },
+  {
+    "name": "Полоцк",
+    "url": "polock"
+  },
+  {
+    "name": "Поставы",
+    "url": "postavy"
+  },
+  {
+    "name": "Россоны",
+    "url": "rossony"
+  },
+  {
+    "name": "Сенно",
+    "url": "senno"
+  },
+  {
+    "name": "Толочин",
+    "url": "tolochin"
+  },
+  {
+    "name": "Ушачи",
+    "url": "ushachi"
+  },
+  {
+    "name": "Чашники",
+    "url": "chashniki"
+  },
+  {
+    "name": "Шарковщина",
+    "url": "sharkovshchina"
+  },
+  {
+    "name": "Шумилино",
+    "url": "shumilino"
+  },
+  {
+    "divider": true
+  },
+  {
+    "subheader": true,
+    "text": "Гомельская обл."
+  },
+  {
+    "name": "Брагин",
+    "url": "bragin"
+  },
+  {
+    "name": "Буда - Кошелево",
+    "url": "buda-koshelevo"
+  },
+  {
+    "name": "Ветка",
+    "url": "vetka"
+  },
+  {
+    "name": "Добруш",
+    "url": "dobrush"
+  },
+  {
+    "name": "Ельск",
+    "url": "elsk"
+  },
+  {
+    "name": "Житковичи",
+    "url": "zhitkovichi"
+  },
+  {
+    "name": "Жлобин",
+    "url": "zhlobin"
+  },
+  {
+    "name": "Калинковичи",
+    "url": "kalinkovichi"
+  },
+  {
+    "name": "Корма",
+    "url": "korma"
+  },
+  {
+    "name": "Лельчицы",
+    "url": "lelchicy"
+  },
+  {
+    "name": "Лоев",
+    "url": "loev"
+  },
+  {
+    "name": "Мозырь",
+    "url": "mozyr"
+  },
+  {
+    "name": "Октябрьский",
+    "url": "oktyabrskij"
+  },
+  {
+    "name": "Наровля",
+    "url": "narovlya"
+  },
+  {
+    "name": "Петриков",
+    "url": "petrikov"
+  },
+  {
+    "name": "Речица",
+    "url": "rechica"
+  },
+  {
+    "name": "Рогачев",
+    "url": "rogachev"
+  },
+  {
+    "name": "Светлогорск",
+    "url": "svetlogorsk"
+  },
+  {
+    "name": "Хойники",
+    "url": "hojniki"
+  },
+  {
+    "name": "Чечерск",
+    "url": "chechersk"
+  },
+  {
+    "divider": true
+  },
+  {
+    "subheader": true,
+    "text": "Гродненская обл."
+  },
+  {
+    "name": "Березовка",
+    "url": "berezovka"
+  },
+  {
+    "name": "Берестовица",
+    "url": "berestovica"
+  },
+  {
+    "name": "Волковыск",
+    "url": "volkovysk"
+  },
+  {
+    "name": "Вороново",
+    "url": "voronovo"
+  },
+  {
+    "name": "Дятлово",
+    "url": "dyatlovo"
+  },
+  {
+    "name": "Зельва",
+    "url": "zelva"
+  },
+  {
+    "name": "Ивье",
+    "url": "ive"
+  },
+  {
+    "name": "Кореличи",
+    "url": "korelich"
+  },
+  {
+    "name": "Лида",
+    "url": "lida"
+  },
+  {
+    "name": "Мосты",
+    "url": "mosty"
+  },
+  {
+    "name": "Новогрудок",
+    "url": "novogrudok"
+  },
+  {
+    "name": "Островец",
+    "url": "ostrovec"
+  },
+  {
+    "name": "Ошмяны",
+    "url": "oshmyany"
+  },
+  {
+    "name": "Свислочь",
+    "url": "svisloch"
+  },
+  {
+    "name": "Скидель",
+    "url": "skidel"
+  },
+  {
+    "name": "Слоним",
+    "url": "slonim"
+  },
+  {
+    "name": "Сморгонь",
+    "url": "smorgon"
+  },
+  {
+    "name": "Щучин",
+    "url": "shchuchin"
+  },
+  {
+    "divider": true
+  },
+  {
+    "subheader": true,
+    "text": "Минский район"
+  },
+  {
+    "name": "Боровляны",
+    "url": "borovlyany"
+  },
+  {
+    "name": "Горани",
+    "url": "gorani"
+  },
+  {
+    "name": "Ждановичи",
+    "url": "zhdanovichi"
+  },
+  {
+    "name": "Заславль",
+    "url": "zaslavl"
+  },
+  {
+    "name": "Колодищи",
+    "url": "kolodishchi"
+  },
+  {
+    "name": "Крупицы",
+    "url": "krupicy"
+  },
+  {
+    "name": "Лошаны",
+    "url": "loshany"
+  },
+  {
+    "name": "Луговая Слобода",
+    "url": "lugovaya-sloboda"
+  },
+  {
+    "name": "Михановичи",
+    "url": "mihanovichi"
+  },
+  {
+    "name": "Новый Двор",
+    "url": "novyj-dvor"
+  },
+  {
+    "name": "Острошицкий Городок",
+    "url": "ostroshickij-gorodok"
+  },
+  {
+    "name": "Паперня",
+    "url": "papernya"
+  },
+  {
+    "name": "Петришки",
+    "url": "petrishki"
+  },
+  {
+    "name": "Рогово",
+    "url": "rogovo"
+  },
+  {
+    "name": "Самохваловичи",
+    "url": "samohvalovichi"
+  },
+  {
+    "name": "Сеница",
+    "url": "senica"
+  },
+  {
+    "name": "Хатежино",
+    "url": "hatezhino"
+  },
+  {
+    "name": "Шершуны",
+    "url": "shchershuny"
+  },
+  {
+    "name": "Щомыслицы",
+    "url": "shchomyslicy"
+  },
+  {
+    "name": "Юзуфово",
+    "url": "yuzufovo"
+  },
+  {
+    "divider": true
+  },
+  {
+    "subheader": true,
+    "text": "Минская обл."
+  },
+  {
+    "name": "Березино",
+    "url": "berezino"
+  },
+  {
+    "name": "Борисов",
+    "url": "borisov"
+  },
+  {
+    "name": "Вилейка",
+    "url": "vilejka"
+  },
+  {
+    "name": "Воложин",
+    "url": "volozhin"
+  },
+  {
+    "name": "Дзержинск",
+    "url": "dzerzhinsk"
+  },
+  {
+    "name": "Жодино",
+    "url": "zhodino"
+  },
+  {
+    "name": "Клецк",
+    "url": "kleck"
+  },
+  {
+    "name": "Копыль",
+    "url": "kopyl"
+  },
+  {
+    "name": "Крупки",
+    "url": "krupki"
+  },
+  {
+    "name": "Логойск",
+    "url": "logojsk"
+  },
+  {
+    "name": "Любань",
+    "url": "lyuban"
+  },
+  {
+    "name": "Марьина Горка",
+    "url": "marina-gorka"
+  },
+  {
+    "name": "Молодечно",
+    "url": "molodechno"
+  },
+  {
+    "name": "Мядель",
+    "url": "myadel"
+  },
+  {
+    "name": "Несвиж",
+    "url": "nesvizh"
+  },
+  {
+    "name": "Руденск",
+    "url": "rudensk"
+  },
+  {
+    "name": "Слуцк",
+    "url": "sluck"
+  },
+  {
+    "name": "Смолевичи",
+    "url": "smolevichi"
+  },
+  {
+    "name": "Солигорск",
+    "url": "soligorsk"
+  },
+  {
+    "name": "Старые Дороги",
+    "url": "starye-dorogi"
+  },
+  {
+    "name": "Столбцы",
+    "url": "stolbcy"
+  },
+  {
+    "name": "Узда",
+    "url": "uzda"
+  },
+  {
+    "name": "Фаниполь",
+    "url": "fanipol"
+  },
+  {
+    "name": "Червень",
+    "url": "cherven"
+  },
+  {
+    "divider": true
+  },
+  {
+    "subheader": true,
+    "text": "Могилевская обл."
+  },
+  {
+    "name": "Белыничи",
+    "url": "belynichi"
+  },
+  {
+    "name": "Бобруйск",
+    "url": "bobrujsk"
+  },
+  {
+    "name": "Быхов",
+    "url": "byhov"
+  },
+  {
+    "name": "Глуск",
+    "url": "glusk"
+  },
+  {
+    "name": "Горки",
+    "url": "gorki"
+  },
+  {
+    "name": "Дрибин",
+    "url": "dribin"
+  },
+  {
+    "name": "Кировск",
+    "url": "kirovsk"
+  },
+  {
+    "name": "Климовичи",
+    "url": "klimovichi"
+  },
+  {
+    "name": "Кличевм",
+    "url": "klichev"
+  },
+  {
+    "name": "Краснополье",
+    "url": "krasnopole"
+  },
+  {
+    "name": "Круглое",
+    "url": "krugloe"
+  },
+  {
+    "name": "Костюковичи",
+    "url": "kostyukovichi"
+  },
+  {
+    "name": "Кричев",
+    "url": "krichev"
+  },
+  {
+    "name": "Мстиславль",
+    "url": "mstislavl"
+  },
+  {
+    "name": "Осиповичи",
+    "url": "osipovichi"
+  },
+  {
+    "name": "Славгород",
+    "url": "slavgorod"
+  },
+  {
+    "name": "Чаусы",
+    "url": "chausy"
+  },
+  {
+    "name": "Черников",
+    "url": "chernikov"
+  },
+  {
+    "name": "Шклов",
+    "url": "shklov"
+  },
+  {
+    "name": "Хотимск",
+    "url": "hotimsk"
+  }
+]

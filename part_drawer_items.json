@@ -1,0 +1,215 @@
+[
+  {
+    "name": "Работа и бизнес",
+    "icon": "business_center",
+    "url": "rabota-i-biznes"
+  },
+  {
+    "divider": true
+  },
+  {
+    "name": "Услуги",
+    "icon": "mood",
+    "url": "uslugi"
+  },
+  {
+    "divider": true
+  },
+  {
+    "name": "Авто и мото",
+    "icon": "directions_car",
+    "url": "avto-i-moto"
+  },
+  {
+    "divider": true
+  },
+  {
+    "name": "Недвижимость",
+    "icon": "location_city",
+    "url": "nedvizhimost"
+  },
+  {
+    "divider": true
+  },
+  {
+    "name": "Смартфоны",
+    "icon": "smartphone",
+    "url": "telephony"
+  },
+  {
+    "divider": true
+  },
+  {
+    "name": "Одежда, обувь",
+    "icon": "shopping_cart",
+    "url": "odezhda-obuv"
+  },
+  {
+    "divider": true
+  },
+  {
+    "name": "Красота и здоровье",
+    "icon": "spa",
+    "url": "krasota-zdorovye"
+  },
+  {
+    "divider": true
+  },
+  {
+    "name": "Путешествия, туризм",
+    "icon": "language",
+    "url": "puteshestviya-turizm"
+  },
+  {
+    "divider": true
+  },
+  {
+    "name": "Компании, предприятия",
+    "icon": "business",
+    "url": "moj-gorod"
+  },
+  {
+    "divider": true
+  },
+  {
+    "name": "Все для дома и кухни",
+    "icon": "nature_people",
+    "url": "vse-dlya-doma-kuhni"
+  },
+  {
+    "divider": true
+  },
+  {
+    "name": "Для детей и родителей",
+    "icon": "child_friendly",
+    "url": "tovary-dlya-detej"
+  },
+  {
+    "divider": true
+  },
+  {
+    "name": "Компьютеры",
+    "icon": "computer",
+    "url": "kompyutery-komplektuyushchie"
+  },
+  {
+    "divider": true
+  },
+  {
+    "name": "Техника и оборудование",
+    "icon": "kitchen",
+    "url": "tekhnika-oborudovanie"
+  },
+  {
+    "divider": true
+  },
+  {
+    "name": "Животные и растения",
+    "icon": "pets",
+    "url": "zhivotnye-komnatnye-rasteniya"
+  },
+  {
+    "divider": true
+  },
+  {
+    "name": "Продукты питания",
+    "icon": "local_dining",
+    "url": "produkty-pitaniya"
+  },
+  {
+    "divider": true
+  },
+  {
+    "name": "Спорт и отдых",
+    "icon": "directions_bike",
+    "url": "sport-aktivnyj-otdyh"
+  },
+  {
+    "divider": true
+  },
+  {
+    "name": "Часы и стиль",
+    "icon": "watch",
+    "url": "chasy-stil-podarki-suveniry"
+  },
+  {
+    "divider": true
+  },
+  {
+    "name": "Интернет",
+    "icon": "http",
+    "url": "internet-sayty"
+  },
+  {
+    "divider": true
+  },
+  {
+    "name": "Книги и журналы",
+    "icon": "local_library",
+    "url": "knigi-zhurnaly"
+  },
+  {
+    "divider": true
+  },
+  {
+    "name": "Фильмы и ТВ",
+    "icon": "local_movies",
+    "url": "filmy-video-tv"
+  },
+  {
+    "divider": true
+  },
+  {
+    "name": "Искусство, ремесла, цветы",
+    "icon": "filter_vintage",
+    "url": "iskusstvo-remesla"
+  },
+  {
+    "divider": true
+  },
+  {
+    "name": "Стройка",
+    "icon": "build",
+    "url": "stroyka-remont"
+  },
+  {
+    "divider": true
+  },
+  {
+    "name": "Праздники",
+    "icon": "redeem",
+    "url": "prazdniki-podarki"
+  },
+  {
+    "divider": true
+  },
+  {
+    "name": "Чемоданы, сумки, зонты",
+    "icon": "shopping_basket",
+    "url": "sumki-zonty"
+  },
+  {
+    "divider": true
+  },
+  {
+    "name": "Игры, игрушки",
+    "icon": "games",
+    "url": "igry-igrushki"
+  },
+  {
+    "divider": true
+  },
+  {
+    "name": "znizhki.by",
+    "icon": "star",
+    "url": "znizhki-by"
+  },
+  {
+    "divider": true
+  },
+  {
+    "name": "Все остальное",
+    "icon": "accessibility_new",
+    "url": "mnenie-obovsem"
+  }
+]

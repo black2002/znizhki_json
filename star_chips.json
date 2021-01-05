@@ -1,0 +1,33 @@
+[
+  {
+    "name": "&#11088;",
+    "class": "d-none",
+    "key": 0
+  },
+  {
+    "name": "&#11088;",
+    "class": "black--text caption font-weight-medium py-2",
+    "key": 1
+  },
+  {
+    "name": "&#11088;&#11088;",
+    "class": "black--text caption font-weight-medium py-2",
+    "key": 2
+  },
+  {
+    "name": "&#11088;&#11088;&#11088;",
+    "class": "black--text caption font-weight-medium py-2",
+    "key": 3
+  },
+  {
+    "name": "&#11088;&#11088;&#11088;&#11088;",
+    "class": "black--text caption font-weight-medium py-2",
+    "key": 4
+  },
+  {
+    "name": "&#11088;&#11088;&#11088;&#11088;&#11088;",
+    "class": "black--text caption font-weight-medium py-2",
+    "key": 5
+  }
+
+]

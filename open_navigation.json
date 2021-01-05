@@ -1,0 +1,464 @@
+[
+  {
+    "all": ["Znizhki.by market"],
+    "avto-i-moto": ["Авто и мото"],
+    "chasy-stil-podarki-suveniry": ["Часы, стиль, подарки"],
+    "filmy-video-tv": ["Фильмы, видео и ТВ"],
+    "igry-igrushki": ["Игры. Игровые приставки"],
+    "internet-sayty": ["Интернет и сайты"],
+    "iskusstvo-remesla": ["Искусство, ремесла, цветы, мастер-классы"],
+    "knigi-zhurnaly": ["Книги, журналы"],
+    "kompyutery-komplektuyushchie": ["Компьютеры и комплектующие, ПО"],
+    "krasota-zdorovye": ["Красота и здоровье"],
+    "moj-gorod": ["Компании и учреждения"],
+    "nedvizhimost": ["Недвижимость"],
+    "odezhda-obuv": ["Одежда и обувь"],
+    "prazdniki-podarki": ["Детские и взрослые праздники"],
+    "produkty-pitaniya": ["Продукты питания"],
+    "puteshestviya-turizm": ["Путешествия, отдых и туризм"],
+    "rabota-i-biznes": ["Работа и бизнес"],
+    "sport-aktivnyj-otdyh": ["Спорт и активный отдых"],
+    "stroyka-remont": ["Стройка и ремонт"],
+    "sumki-zonty": ["Чемоданы, сумки, зонты, аксессуары"],
+    "tekhnika-oborudovanie": ["Техника и оборудование"],
+    "telephony": ["Телефоны, смартфоны, планшеты, электронные книги"],
+    "znizhki-by": ["Znizhki.by"],
+    "tovary-dlya-detej": ["Товары для детей и родителей"],
+    "uslugi": ["Услуги"],
+    "vse-dlya-doma-kuhni": ["Все для дома и кухни"],
+    "zhivotnye-komnatnye-rasteniya": ["Животные и растения"],
+    "uslugi-rozhdenie-malysha": ["Рождение малыша"],
+    "uslugi-svadebnaya-ceremoniya": ["Cвадебная церемония"],
+    "uslugi-rannee-razvitie": ["Раннее развитие"],
+    "uslugi-krasota-stil": [
+      "Красота и стиль"
+    ],
+    "uslugi-mebel-zhalyuzi": [
+      "Мебель и жалюзи"
+    ],
+    "uslugi-bytovye": [
+      "Бытовые услуги"
+    ],
+    "uslugi-medicinskie": [
+      "Медицинские услуги"
+    ],
+    "uslugi-stroitelnye-otdelochnye-raboty": [
+      "Строительные и отделочные работы"
+    ],
+    "uslugi-perevozki": [
+      "Перевозки"
+    ],
+    "uslugi-remont-tekhniki-instrumenta": [
+      "Ремонт техники и инструмента"
+    ],
+    "uslugi-ehkonomicheskie": [
+      "Экономические услуги"
+    ],
+    "uslugi-uborka": [
+      "Уборка"
+    ],
+    "uslugi-internet": [
+      "Интернет"
+    ],
+    "uslugi-sport": [
+      "Спорт"
+    ],
+    "uslugi-domashnie-zhivotnye": [
+
+      "Услуги для домашних животных"
+
+
+    ],
+    "uslugi-turizm": [
+      "Туризм"
+    ],
+    "uslugi-avto-moto": [
+      "Авто и мото услуги"
+    ],
+    "uslugi-kompyuternaya-pomoshch": [
+      "Компьютерная помощь"
+    ],
+    "uslugi-repetitory": [
+      "Репетиторы"
+    ],
+    "uslugi-obrazovanie": [
+      "Образование"
+    ],
+    "uslugi-foto-i-videouslugi": [
+      "Фото- и видеоуслуги"
+
+    ],
+    "uslugi-dizajn-poligrafiya": [
+      "Дизайн и полиграфия"
+    ],
+    "uslugi-onlajn": [
+      "Онлайн-услуги"
+    ],
+    "uslugi-organizaciya-torzhestv": [
+      "Организация торжеств"
+    ],
+    "uslugi-audit-buhgalterskie": [
+      "Аудит и бухгалтерские услуги"
+    ],
+    "uslugi-yuridicheskie": [
+      "Юридические услуги"
+    ],
+    "uslugi-ritualnye": [
+      "Ритуальные услуги"
+    ],
+    "vse-dlya-shkoly": [
+      "Все для школы"
+    ],
+    "detskaya-mebel": [
+      "Детская мебель"
+    ],
+    "detskaya-santekhnika": [
+      "Детская сантехника"
+    ],
+    "posuda-kormlenie-detej": [
+      "Посуда и кормление детей"
+    ],
+    "sredstva-gigieny-podguzniki": [
+      "Средства гигиены и подгузники"
+    ],
+    "sredstva-nablyudeniya-kontrolya": [
+      "Средства наблюдения и контроля"
+    ],
+    "transportirovka-detej-all": [
+      "Транспортировка детей"
+    ],
+    "kompanii-avto": [
+      "Авто моего города"
+    ],
+    "kompanii-zoo": [
+      "Зоо моего города"
+    ],
+    "kompanii-predpriyatiya-all": [
+      "Компании и предприятия"
+    ],
+    "kompanii-krasota-zdorove": [
+      "Красота и здоровье моего города"
+    ],
+    "kompanii-magaziny-torgovye-centry": [
+      "Магазины и торговые центры"
+    ],
+    "kompanii-obrazovaniye": [
+      "Образование моего города"
+    ],
+    "kompanii-gruzoperevozki": [
+      "Общественный транспорт и грузоперевозки"
+    ],
+    "kompanii-parki-kultury-otdyha": [
+      "Парки аттракционов. Парки культуры и отдыха"
+    ],
+    "kompanii-restorany-bary-kafe": [
+      "Рестораны, бары, кафе"
+    ],
+    "kompanii-stadiony-sportivnye-kluby": [
+      "Стадионы и спортивные клубы"
+    ],
+    "kompanii-shou-kinoteatry-kluby": [
+      "Шоу. Кинотеатры. Клубы по интересам"
+    ],
+    "remesla-all": [
+      "Ремесла"
+    ],
+    "motocicly-all": [
+      "Мотоциклы и все к ним"
+    ],
+    "katera-lodki-all": [
+      "Водный транспорт"
+    ],
+    "avtohimiya-masla-all": [
+      "Автохимия и масла"
+    ],
+    "ehlektronika-dlya-avto-all": [
+      "Электроника для авто"
+    ],
+    "oborudovanie-dlya-remonta-mojki-all": [
+      "Оборудование для ремонта и мойки"
+    ],
+    "aksessuary-dlya-avto-moto-all": [
+      "Аксессуары для авто"
+    ],
+    "shiny-diski-all": [
+      "Шины и диски"
+    ],
+    "audio-all": [
+      "Аудио"
+    ],
+    "bytovaya-tekhnika-dlya-uhoda-all": [
+      "Бытовая техника для индивидуального ухода"
+    ],
+    "bytovaya-tekhnika-dlya-odezhdy-obuvi-all": [
+      "Бытовая техника для одежды и обуви"
+    ],
+    "bytovaya-tekhnika-dlya-uborki-all": [
+      "Бытовая техника для уборки"
+    ],
+    "vodosnabzhenie-all": [
+      "Водоснабжение"
+    ],
+    "klimat-otoplenie-all": [
+      "Климат, отопление"
+    ],
+    "tv-video-all": [
+      "Телевидение и видеотехника"
+    ],
+    "ofisnoe-oborudovanie-all": [
+      "Офисное оборудование"
+
+    ],
+    "tekhnika-dlya-pechati-dizajna-all": [
+
+
+      "Техника для печати и дизайна"
+
+    ],
+    "tekhnika-dlya-dachi-all": [
+      "Техника для дачи и садовый декор"
+    ],
+    "gazon-all": ["Газон"],
+    "sadovyj-instrument-all": ["Садовый инструмент"],
+    "teplicy-parniki-poliv-spanbond-all": ["Теплицы, парники, полив, спанбонд"],
+    "foto-optika-all": [
+      "Фото и оптика, фоторамки"
+    ],
+    "torgovoe-oborudovanie-all": [
+
+      "Торговое оборудование"
+
+    ],
+    "ehlektronika-all": [
+      "Электроника наблюдения"
+    ],
+    "telefoniya-svyaz-all": [
+      "Телефония и связь"
+    ],
+    "muzykalnoe-oborudovanie-all": [
+      "Музыкальное оборудование"
+    ],
+    "ehlektro-all": [
+      "Электроснабжение"
+    ],
+    "bani-all": [
+      "Бани"
+
+    ],
+    "stroitelnyj-instrument-oborudovanie-all": [
+      "Строительный инструмент и оборудование"
+    ],
+    "obshchestroitelnye-materialy-all": [
+      "Строительные материалы"
+    ],
+    "okna-dveri-all": [
+      "Окна и двери"
+    ],
+    "bytovaya-tekhnika-dlya-kuhni-all": [
+      "Бытовая техника для кухни"
+    ],
+    "borba-s-nasekomymi-i-gryzunami-all": [
+      "Борьба с насекомыми и грызунами"
+    ],
+    "bytovaya-himiya-all": [
+      "Бытовая химия"
+    ],
+    "domashnij-tekstil-all": [
+      "Домашний текстиль"
+    ],
+    "mebel-all": [
+      "Мебель"
+    ],
+    "posuda-stolovye-pribory-all": [
+      "Посуда и столовые приборы"
+    ],
+    "santekhnika-all": [
+      "Cантехника"
+    ],
+    "svetotekhnika-osveshchenie-all": [
+      "Светотехника и освещение"
+    ],
+    "filtry-vody-all": [
+      "Фильтры воды"
+    ],
+    "chistka-glazhka-all": [
+      "Уборка, чистка и глажка"
+    ],
+    "domashnie-zhivotnye": [
+      "Домашние животные"
+
+    ],
+    "rasteniya-komnatnye-sadovye": [
+      "Растения, грунты, агрохимия"
+
+    ],
+    "tovary-dlya-zhivotnyh": [
+      "Товары для животных"
+
+    ],
+    "selskoe-hozyajstvo-all": [
+      "Сельское хозяйство"
+
+    ],
+    "komplektuyushchie-all": [
+      "Комплектующие"
+    ],
+    "manipulyatory-klaviatury-all": [
+      "Манипуляторы и клавиатуры"
+    ],
+    "hranenie-dannyh-all": [
+      "Хранение  данных"
+    ],
+    "aksessuary-dlya-kompyuterov-all": [
+      "Аксессуары для компьютеров"
+    ],
+    "multimedia-periferiya-all": [
+      "Мультимедиа периферия"
+    ],
+    "setevoe-oborudovanie-all": [
+      "Сетевое оборудование"
+    ],
+    "ehlektropitanie-all": [
+      "Электропитание"
+    ],
+    "programmnoe-obespechenie-all": [
+      "Программное обеспечение"
+    ],
+    "mobilnye-telefony-all": [
+      "Мобильные телефоны и все к ним"
+    ],
+    "planshety-ehlektronnye-knigi-all": [
+      "Планшеты, электронные книги и все к ним"
+    ],
+    "ehlektronika-dlya-krasoty-i-zdorovya-all": [
+      "Электроника для красоты и здоровья"
+    ],
+    "kosmetika-dekorativnaya-all": [
+      "Косметика декоративная"
+    ],
+    "kosmetika-uhazhivayushchaya-all": [
+      "Косметика ухаживающая"
+    ],
+    "kosmeticheskie-prinadlezhnosti-all": [
+      "Косметические принадлежности"
+    ],
+    "kosmeticheskie-procedury-all": [
+      "Косметические процедуры"
+    ],
+    "ochki-all": [
+      "Очки и контактные линзы"
+    ],
+    "parfyumeriya-dezodoranty-all": [
+      "Парфюмерия и дезодоранты"
+    ],
+    "sredstva-gigieny-all": [
+      "Средства гигиены"
+    ],
+    "muzhskaya-moda-all": [
+      "Мужская мода"
+    ],
+    "zhenskaya-moda-all": [
+      "Женская мода"
+    ],
+    "moda-dlya-devochek-all": [
+      "Мода для девочек"
+    ],
+    "moda-dlya-malchikov-all": [
+      "Мода для мальчиков"
+    ],
+    "tabachnye-izdeliya-all": [
+      "Табачные изделия"
+    ],
+    "ehlektronnye-parogeneratory-all": [
+      "Электронные парогенераторы"
+    ],
+    "chasy-all": [
+      "Часы"
+    ],
+    "alkogol-all": [
+      "Алкоголь и энергетики"
+    ],
+    "sportivnoe-pitanie-all": [
+      "Спортивное питание"
+    ],
+    "deserty-all": [
+      "Десерты"
+    ],
+    "zakuski-all": [
+      "Закуски"
+    ],
+    "konservy-all": [
+      "Консервы"
+    ],
+    "krupy-makaronnye-izdeliya-bakaleya-sahar-all": [
+      "Крупы и макаронные изделия. Бакалея. Сахар"
+    ],
+    "molochnye-produkty-all": [
+      "Молочные продукты"
+    ],
+    "myaso-kolbasy-all": [
+      "Мясо и колбасы"
+    ],
+    "napitki-all": [
+      "Напитки"
+    ],
+    "ovoshchi-frukty-all": [
+      "Овощи и фрукты"
+    ],
+    "orekhi-semechki-all": [
+      "Орехи и семечки"
+    ],
+    "polufabrikaty-all": [
+      "Полуфабрикаты"
+    ],
+    "rastitelnye-masla-all": [
+      "Растительные масла"
+    ],
+    "sousy-podlivy-pripravy-specii-all": [
+      "Соусы и подливы. Приправы и специи"
+    ],
+    "hlebobulochnye-izdeliya-all": [
+      "Хлебобулочные изделия"
+    ],
+    "velozapchasti-aksessuary-all": [
+      "Велозапчасти и аксессуары. Велобагажники"
+    ],
+    "one-two-weel-gagets-all": [
+      "1-2 колесные гаджеты"
+    ],
+    "vidy-sporta-all": [
+      "Виды спорта"
+    ],
+    "sportivnoe-snaryazhenie-trenazhery-all": [
+      "Спортивное снаряжение и тренажеры"
+    ],
+    "rybolovnoe-snaryazhenie-all": [
+      "Рыболовное снаряжение"
+    ],
+    "sportivnye-sredstva-peredvizheniya-all": [
+      "Спортивные средства передвижения"
+    ],
+    "turisticheskoe-snaryazhenie-all": [
+      "Туристическое снаряжение"
+
+    ],
+    "televidenie-videokanaly": [
+      "Телевидение и видеоканалы"
+    ],
+    "filmy-video": [
+      "Фильмы и видео"
+    ],
+
+    "igrovye-ploshchadki-all": [
+      "Игровые площадки"
+    ],
+    "igry-all": [
+      "Игры"
+    ],
+    "igrovye-pristavki-i-akssesuary-all": [
+      "Игровые приставки и аксессуары"
+    ]
+  }
+
+
+]
